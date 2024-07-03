@@ -1,0 +1,99 @@
+.header-text-three{
+    font-size: 3rem;
+}
+
+body{
+    background-color:hsl(47, 100%, 90%) ;
+}
+
+
+.vision-mission{
+    padding: 3rem 2rem 1rem;
+    /* font-size: 16rem; */
+
+}
+
+.main-o{
+    margin-top: 10rem;
+    /* margin:3rem; */
+    padding:5rem;
+}
+.heading-three-o{
+    background: rgb(189, 163, 149);
+    height: 4rem;
+    width: 35rem;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: rgb(142, 77, 43);
+    padding: 0 1rem;
+    border-radius: 5rem;
+    display:flex;
+    justify-content: center
+}
+
+.heading-three-vision{
+    background-color: rgb(189, 163, 149);
+    color: rgb(142, 77, 43);
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;  
+    width: 65rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.heading-three-mission{
+    background-color: rgb(189, 163, 149);
+    color: rgb(142, 77, 43);
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;  
+    width: 65rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.para-2{
+    color: rgb(60, 56, 56);
+    font-weight: 400;
+    padding: 2rem;
+}
+
+.grid-container-two-four{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .heading-three-o {
+        width:100%; /* Adjust width to full width on tablets */
+        font-size: 2.3rem; /* Adjust font size */
+    }
+
+    .heading-three-vision,
+    .heading-three-mission {
+        width: 80%; /* Adjust width to 80% on tablets */
+        font-size: 2.3rem; /* Adjust font size */
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .heading-three-o {
+        width: 100%; /* Adjust width to full width on smaller screens */
+        font-size: 2rem; /* Decrease font size for better readability */
+    }
+
+    .heading-three-vision,
+    .heading-three-mission {
+        width: 100%; /* Adjust width to full width on smaller screens */
+        font-size: 1.8rem; /* Decrease font size for better readability */
+    }
+
+    .grid-container-two-four {
+        grid-template-columns: 1fr; /* Adjust grid to single column on smaller screens */
+    }
+}
+

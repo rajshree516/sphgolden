@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - SPH Golden Mustard</title>
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="icon" type="image/png" href="images/logo/icononly.png"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+
+</head>
+<body>
+    <header>
+        <h2 >Contact Us</h2>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Get in Touch</h2>
+            <p>Have a question or feedback? Reach out to us using the form below or contact us directly.</p>
+            
+            <form id="contactForm" onsubmit="sendEmail(event)">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required placeholder="Enter your name"><br><br>
+                
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required placeholder="Enter your message"></textarea><br><br>
+                
+                <button type="submit">Submit</button>
+            </form>
+            
+            <div id="confirmationMessage" style="display: none;">
+                <p>Email sent successfully!</p>
+            </div>
+            
+            <script>
+                function sendEmail(event) {
+                    event.preventDefault(); 
+                    
+    
+                    if (!validateForm()) {
+                        return; 
+                    }
+                    
+                    var name = document.getElementById("name").value;
+                    var email = document.getElementById("email").value;
+                    var message = document.getElementById("message").value;
+                
+                    var mailto_link = "mailto:harshitsingh28019@gmail.com"
+                                     + "?subject=" + encodeURIComponent("Message from " + name)
+                                     + "&body=" + encodeURIComponent(message + "\n\nFrom: " + email);
+                
+                    var success = window.open(mailto_link);
+                    
+                    if (success) {
+                        document.getElementById("confirmationMessage").style.display = "block";
+                    }
+                }
+                
+                function validateForm() {
+                    var name = document.getElementById("name").value;
+                    var email = document.getElementById("email").value;
+                    var message = document.getElementById("message").value;
+                    
+                    if (name === "" || email === "" || message === "") {
+                        alert("Please fill out all fields.");
+                        return false;
+                    }
+                    
+                    return true;
+                }
+            </script>
+        </section>
+        
+        
+        
+        <section>
+            <h2>Contact Information</h2>
+            <p>If you prefer to contact us directly, here are our details:</p>
+            
+            <p><strong>Email:</strong> info@sphgoldenmustard.com</p>
+            <p><strong>Phone:</strong> +918890389082</p>
+            <p><strong>Address:</strong> H. NO 15,SAVITA COLONY,STREET NO 2A NIMBAHERA,Nimbahera,Chittorgarh,Rajasthan,India-312601</p>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="footer-container grid grid-two-column">
+            
+                <div class="footer-content ">
+                    <div class="footer-logo-img">
+                        <img src="images/logo/fulllogo_transparent_nobuffer.png" alt="SPH Golden Mustard Logo" class="footer-logo">
+                    </div>
+    
+                
+                </div>
+                <div class="footer-social">
+                    <h2>Connect with us:</h2>
+                    <ul class="footer-list">
+                        <li class="footer-icon"><a href="#" ><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="footer-icon"><a href="#" ><i class="fab fa-linkedin"></i></a></li>
+                        <li class="footer-icon"><a href="#" ><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            
+            
+        </div>
+        <p >&copy; 2024 SPH Golden Mustard. All rights reserved.</p>
+    </footer>
+</body>
+</html>

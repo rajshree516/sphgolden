@@ -1,0 +1,305 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color:hsl(47, 100%, 90%);
+    margin: 0;
+}
+.header-director{
+    padding: 0 4.8rem;
+    height: 7rem;
+    background-color: rgb(142, 77, 43);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 20px 40px;
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+}
+.line-border {
+    position: absolute;
+    top: 75px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20rem;
+    height: 20px;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" preserveAspectRatio="none"><circle cx="20" cy="20" r="10" fill="%23000"/><circle cx="980" cy="20" r="10" fill="%23000"/><line x1="20" y1="20" x2="980" y2="20" stroke="%23000" stroke-width="2"/></svg>');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.board-members-container {
+    background-color:hsl(47, 100%, 90%);
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around; 
+    align-items: center;
+    /* max-width: 2500px;  */
+    margin: 0 auto; 
+    /* background-color: #dad9d9; */
+}
+
+.board-member {
+    width: 475px; 
+    height: 470px; 
+    
+    /* border-radius: 50%;  */
+    overflow: hidden; /* Ensures content doesn't overflow */
+    margin: 2.5rem; /* Adjust spacing between cards */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  */
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    justify-content: space-between;
+    /* width: calc(33.33% - 40px); */
+}
+.board-member-image{
+    display: flex;
+    justify-content: center; 
+
+}
+.image1{
+    width: 240px;
+    height: 235px;
+}
+.image2{
+    width: 240px;
+    height: 235px;
+}
+.image3{
+    width: 240px;
+    height: 235px;
+}
+
+.board-member-image img {
+   
+    /* border-radius: 50%;  */
+    /* margin-bottom: 5px; */
+    /* margin-left:  100px;  */
+    box-shadow: -1rem -1rem 0 0 #98c5d7;
+
+}
+
+.board-member-name{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.board-member-quote {
+    text-align: center;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 10; /* Number of lines to show */
+    /* Optional - ensure compatibility with other browsers */
+    max-height: calc(1.2em * 10); /* Fallback for non-WebKit browsers */
+    line-height: 1.2em; /* Fallback for non-WebKit browsers */
+}
+
+
+blockquote {
+    padding-top: 0.5rem ;
+    font-style: italic;
+    margin-bottom: 10px;
+    /* max-height: 100px;  */
+    /* overflow: hidden;  */
+    /* text-overflow: ellipsis;  */
+    /* display: -webkit-box; */
+    /* -webkit-line-clamp: 3;  */
+    /* -webkit-box-orient: vertical; */
+}
+
+.quote-source {
+    font-weight: bold;
+    /* font-size: medium; */
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.section{
+    padding:7rem 0;
+}
+footer{
+    padding: 25px 25px 2rem;
+    height: 8rem;
+    background-color: rgb(142, 77, 43);
+    /* display: flex-end; */
+
+}
+
+.heading-three{
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    /* font-size: 2rem; */
+}
+
+.footer-item{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.footer-item a{
+    color: black;
+}
+
+a:hover{
+    color: #b3993e;
+}
+.footer-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+    font-weight: 500;
+    
+}
+
+.footer-item
+{
+    color: var(--black);
+    
+}
+.footer-links a {
+    /* color: #fff; */
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+    color: var(--black);
+    font-size: 1rem;
+    
+}
+
+.footer-links a:hover {
+    color: #948fa4;
+}
+
+
+/* media querries ---------------->*/
+
+
+@media (max-width: 1200px) {
+   
+    .grid {
+        grid-template-columns: 1fr; /* Adjust grid layout to single column */
+        gap: 1.5rem; /* Add gap between grid items */
+    }
+  
+    
+  }
+  
+  @media (max-width: 992px)and(max-width:1024) {
+    
+    
+  
+    .grid {
+        grid-template-columns: 1fr; /* Adjust grid layout to single column */
+        gap: 1.5rem; /* Add gap between grid items */
+    }
+    
+  }
+  
+  @media (max-width: 768px) {
+
+    html {
+      font-size: 66.25%; 
+    }
+  
+    .header {
+      padding: 0.5rem;
+      font-size: 4rem;
+       
+    }
+    .image1,
+    .image2,
+    .image3 {
+        width: 20rem; /* Adjust width as needed */
+        height: 20rem; /* Maintain aspect ratio */
+    }
+    .grid {
+        grid-template-columns: 1fr; /* Adjust grid layout to single column */
+        gap: 1.5rem; /* Add gap between grid items */
+    }
+    blockquote {
+        /* padding-bottom: 1rem; */
+        max-height: none; /* Remove height restriction */
+        overflow: visible; /* Allow full display */
+        text-overflow: unset; /* Disable text ellipsis if applied */
+        -webkit-line-clamp: initial; /* Reset line clamp */
+        -webkit-box-orient: initial; /* Reset box orientation */
+    }
+
+  }
+  
+  @media (max-width: 576px) {
+    /* Adjustments for screens up to 576px wide (mobile devices) */
+    .header {
+      /* padding: 1.2rem; */
+      height: 9rem; 
+    }
+  
+   
+}
+@media (max-width: 430px) {
+    body {
+        font-size: 56.25%; /* Adjust base font size for smaller screens */
+        background-color: var(--bg); /* Set background color */
+    }
+
+    .section {
+        background-color: var(--bg); 
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem; 
+    }
+
+    blockquote {
+        max-height: none; 
+        overflow: visible; 
+        text-overflow: unset;
+        -webkit-line-clamp: initial; /* Reset line clamp */
+        -webkit-box-orient: initial; /* Reset box orientation */
+    }
+
+    .image1,
+    .image2,
+    .image3 {
+        width: 100%;
+        height: auto; 
+    }
+    .board-member {
+        width: 100%; 
+        margin: 1rem 0; 
+    }
+
+    .board-member-name,
+    .board-member-quote {
+        display: wrap;
+    }
+
+}
+
+  
+
+  
+  
+  
+
+  
+ 
+  
+  

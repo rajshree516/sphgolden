@@ -1,0 +1,1730 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta name="description" content="">
+    <meta name="keywords" content="" />
+    <!-- <meta name="description" content="Sakra Premium Clinic at Sarjapur Road is committed to advanced medical care through innovative and efficient services. Visit Our Best Clinic in Sarjapur, Bangalore."> -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://www.sakrapremiumclinic.com/assets/css/owl-carousel/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://www.sakrapremiumclinic.com/assets/css/owl-carousel/owl.theme.default.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.4.2/sweetalert2.min.css" />
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/owl-carousel/header.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/specialities.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/header.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/doctor.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/landing.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/about.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/service.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/health-checkup.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/appoinment.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/contact.css">
+    <link rel="stylesheet" type="text/css" href="https://www.sakrapremiumclinic.com/assets/css/typeahead.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+
+    <link rel="icon" href="https://www.sakrapremiumclinic.com/assets/images/favicon.ico" type="image/x-icon">
+
+    <!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M2F886X');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Sakra Premium Clinic",
+        "url": "https://www.sakrapremiumclinic.com/",
+        "logo": "https://www.sakrapremiumclinic.com/assets/images/logo.png",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+91 (807)190-9090",
+            "contactType": "customer service",
+            "contactOption": "TollFree",
+            "areaServed": "IN",
+            "availableLanguage": "en"
+        }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Webpage",
+        "headline": "Best Clinics in Sarjapur | Multispeciality Clinics in Sarjapur - Sakra Premium Clinic",
+        "@id": "https://www.sakrapremiumclinic.com/",
+        "thumbnailUrl": " ",
+        "dateCreated": "",
+        "name": "Sakra Premium Clinic",
+        "description": "Sakra Premium Clinic at Sarjapur Road is committed to advanced medical care through innovative and efficient services. Visit Our Best Clinic in Sarjapur, Bangalore.",
+        "publisher": "Sakra Premium Clinic",
+        "creator": [],
+        "keywords": ["best multi speciality clinics near sarjapur road, doctors near sarjapur road"]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Sakra Premium Clinic",
+        "url": "https://www.sakrapremiumclinic.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.sakrapremiumclinic.com/{search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <script type='application/ld+json'>
+    {
+        "@context": "http://www.schema.org",
+        "@type": "MedicalClinic",
+        "name": "Sakra Premium Clinic",
+        "url": "https://www.sakrapremiumclinic.com/",
+        "logo": "https://www.sakrapremiumclinic.com/assets/images/logo.png",
+        "priceRange": "$",
+        "image": "https://www.sakrapremiumclinic.com/assets/images/unique-clinic-sakraclinic-hospital-bangalore.jpg",
+        "description": "Sakra Premium Clinic at Sarjapur Road is committed to advanced medical care through innovative and efficient services. Visit Our Best Clinic in Sarjapur, Bangalore.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1st Floor, Bren Mercury, Kaikondrahalli Junction Sarjapur Main Road",
+            "addressLocality": "Bengaluru",
+            "addressRegion": "Karnataka",
+            "postalCode": "560035",
+            "addressCountry": "India"
+        },
+        "hasMap": "https://www.google.com/maps?ll=12.914337,77.677429&z=14&t=m&hl=en&gl=IN&mapclient=embed&cid=5308701948942550622",
+        "openingHours": "Mo 08:00-20:00 Tu 08:00-20:00 We 08:00-20:00 Th 08:00-20:00 Fr 08:00-20:00 Sa 08:00-20:00",
+        "telephone": "080 68909090"
+    }
+    </script>
+             <style>
+    .ui-widget.ui-widget-content{
+        border: 1px solid #c5c5c5 !important;
+    }
+    .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{
+        margin-bottom: 0px !important;
+    }
+    .ui-datepicker-calendar thead tr th span{
+        display: block;
+    color: #f26a63 !important;
+font-size: 13px !important;
+    text-transform: uppercase;
+    }
+    .ui-widget-header {
+    border: none!important;
+    font-size: 18px !important;
+}
+.ui-datepicker-unselectable .ui-state-default {
+    color: #ccc !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+}
+.ui-datepicker-title span {
+    font-size: 16px !important;
+}
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight {
+    color: #000;
+}
+.form-control:focus{
+    color: #495057;
+    background-color: #fff;
+    outline: 0;
+    box-shadow: none !important;
+}
+</style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2F886X" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <section class="d-none d-lg-block d-md-block">
+        <div class="container">
+            <div class="row">
+                <div class="header_logo col-5 col-sm-3 col-md-3 col-lg-2">
+                    <a href="https://www.sakrapremiumclinic.com/">
+                        <img src="https://www.sakrapremiumclinic.com/assets/images/logo.png" alt="sakra logo" class="img-fluid">
+                    </a>
+                </div>
+                <div class="col-7 col-md-9 col-sm-9 col-lg-10 padding-left-10">
+                    <div class="pull-right right-nav-bar">
+                        <ul class="top-nav padding-0 ">
+                            <li>
+                                <div class="input-group input-search position-relative">
+                                    <input type="text" id="search_web" placeholder="Search Specialities, Doctors.."
+                                        name="search_web" class="form-control search title ui-autocomplete-input"
+                                        autocomplete="off">
+                                    <img class="search-icon" src="https://www.sakrapremiumclinic.com/assets/images/search.png"
+                                        alt="search">
+                                </div>
+                                <div class="searchDoc-drop">
+                                    <ul class="searchDocResults">
+                                    </ul>
+                                </div>
+                                <div class="search-drop-error2"></div>
+                            </li>
+                            <!-- <li>
+                                <div>
+                                    <a class="btn btn-book" data-toggle="modal" data-target="#BookappointmentModal">
+                                        Book an Appointment
+                                    </a>
+                                </div>
+                            </li> -->
+                            <!-- <li>
+                                <div class="tionform">
+                                    <a class="btn video-book" data-toggle="modal" data-target="#videoconsultationform">
+                                    Video Consultation
+                                    </a>
+                                </div>
+                            </li> -->
+                            <li>
+                                <a class="nav-link sakra-call" href="tel:080 68909090">
+                                    <div class="sakra">
+                                        <img src="https://www.sakrapremiumclinic.com/assets/images/phone-call.png">
+                                        <p><small>Clinic</small></p><br>
+                                        <p class="clinic_no">080 6890 9090</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="nav-link sakra-call" href="tel:18002024969">
+                                    <div class="sakra">
+                                        <img src="https://www.sakrapremiumclinic.com/assets/images/phone-call.png">
+                                        <p><small>Toll Free Number</small></p><br>
+                                        <p class="toll_free_sakra">1800 202 4969</p>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="nav-bar nav-bar-tab">
+        <div class="container menu-bar-mob">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light header-nav-custom">
+                <button class="navbar-toggler btn" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-desktop" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto navbar-custom-mob">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/about-us">About us</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="specialities-dropwn" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Specialities
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-speciality pt-4 pb-4"
+                                aria-labelledby="specialities-dropwn">
+                                <div class="row">
+                                    <!-- <div class="col-5 col-sm-5 col-md-5 col-lg-5">
+                                     <h6 class="mb-2" style="color:#4BAF8F;    font-size: 14px;">INSTITUTES OF EXCELLENCE</h6>  
+                                                                             <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/neurology-clinic-in-bangalore">Neurology</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/cardiology-clinic-in-bangalore">Cardiology</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/orthopaedic-clinic-in-bangalore">Orthopaedic</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/gastroenterology-clinic-in-bangalore">Gastroenterology</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/obstetrics-and-gynaecology-clinic-in-bangalore">Obstetrics & Gynaecology</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/paediatrics-clinic-in-bangalore">Paediatrics</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/internal-medicine-clinic-in-bangalore">Internal Medicine</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/ent-clinic-in-bangalore">ENT</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/dental-clinic-in-bangalore">Dental</a>
+
+                                                                                <a class="dropdown-item p-0"
+                                            href="https://www.sakrapremiumclinic.com/specialities/dermatology-clinic-in-bangalore">Dermatology</a>
+
+                                                                         </div> -->
+                                    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                                        <h6 class="mb-2" style="color:#5D58CC;    font-size: 16px;"> Institutes of
+                                            Excellence</h6>
+                                        <div class="row">
+                                            <div class="col-6 col-sm-6 col-md-6 col-lg-6 link-speciality">
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/neurology-clinic-in-bangalore">Neurology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/cardiology-clinic-in-bangalore">Cardiology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/orthopaedic-clinic-in-bangalore">Orthopaedic</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/gastroenterology-clinic-in-bangalore">Gastroenterology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/obstetrics-and-gynaecology-clinic-in-bangalore">Obstetrics & Gynaecology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/paediatrics-clinic-in-bangalore">Paediatrics</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/internal-medicine-clinic-in-bangalore">Internal Medicine</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/ent-clinic-in-bangalore">ENT</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/dental-clinic-in-bangalore">Dental</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/dermatology-clinic-in-bangalore">Dermatology</a>
+
+                                                                                            </div>
+                                            <div class="col-6 col-sm-6 col-md-6 col-lg-6 link-speciality">
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/nephrology-clinic-in-bangalore">Nephrology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/neuro-surgery-clinic-in-bangalore">Neurosurgery</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/plastic-surgery-clinic-in-bangalore">Plastic Surgery</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/urology-clinic-in-bangalore">Urology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/pulmonology-clinic-in-bangalore">Pulmonology</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/gi-surgery-clinic-in-bangalore">GI Surgery</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/ctvs-clinic-in-bangalore">CTVS</a>
+
+                                                                                                <a class="dropdown-item p-0"
+                                                    href="https://www.sakrapremiumclinic.com/specialities/hair-transplant">Hair Transplant </a>
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/doctor">Doctors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/service">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/testimonials">Patient Speak</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/blog">Blogs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.sakrapremiumclinic.com/contact">Contact us</a>
+                        </li>
+                    </ul>
+                    <div class="form-inline my-2 my-lg-0 get-sakra-app">
+                        <!-- <p class="get-app"><img src="https://www.sakrapremiumclinic.com/assets/images/mobileicon.png">Get Sakra
+                            app</p> -->
+
+                        <a href="https://www.sakrapremiumclinic.com/book-health-check-up">
+                        <!-- <a data-toggle="modal" data-target="#BookappointmentModal"> -->
+                            <button class="btn health-checkup my-2 my-sm-0" type="submit">Health Check-up</button>
+                        </a>
+
+                        <a target="_blank" href="https://www.sakraworldhospital.com/">
+                            <button class="btn health-checkup visit-hospital my-2 my-sm-0" type="submit">Visit
+                                Hospital </button>
+                        </a>
+                        <a class="tionform1" data-toggle="modal" data-target="#videoconsultationform">
+                            <button class="btn health-checkup my-2 my-sm-0" type="submit">Video Consultation</button>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row d-sm-none d-md-none d-lg-none logo-call-mob">
+                    <div class="d-sm-none d-md-none d-lg-none col-6 col-sm-4 pl-0">
+                        <a href="https://www.sakrapremiumclinic.com/">
+                            <img src="https://www.sakrapremiumclinic.com/assets/images/logo.png" class="mar-logo">
+                        </a>
+                    </div>
+                    <div class="col-6 col-sm-6 p-0">
+                        <ul class="call_number">
+                        <li>
+                            <a class="nav-link sakra-call" href="tel:080 68909090">
+                                <div class="sakra">
+                                    <img src="https://www.sakrapremiumclinic.com/assets/images/phone-call.png">
+                                    <p><small>Clinic</small></p><br>
+                                    <!-- <p class="clinic_no">080 68909090</p> -->
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="nav-link sakra-call" href="tel:18002024969">
+                                <div class="sakra">
+                                    <img src="https://www.sakrapremiumclinic.com/assets/images/phone-call.png">
+                                    <p><small>Toll Free Number</small></p><br>
+                                    <!-- <p class="toll_free_sakra">18002024969</p> -->
+                                </div>
+                            </a>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="sm-get-sakra-app">
+            <a class="d-none d-sm-none d-md-block d-lg-none" data-toggle="modal" data-target="#videoconsultationform">
+                    <button class="btn health-checkup my-2 my-sm-0" type="submit">Video Consultation</button>
+                </a>
+                <!-- <p class="get-app d-none d-sm-none d-md-block d-lg-none"><img
+                        src="https://www.sakrapremiumclinic.com/assets/images/mobileicon.png">Get Sakra app</p> -->
+                <a target="_blank" href="https://www.sakraworldhospital.com/"
+                    class="d-none d-sm-none d-md-block d-lg-none">
+                    <button class="btn health-checkup visit-hospital my-2 my-sm-0" type="submit">Visit Hospital</button>
+                </a>
+                <a href="https://www.sakrapremiumclinic.com/healthcheckup/Premium-comprehensive" class="d-none d-sm-none d-md-block d-lg-none">
+                <!-- <a class="d-none d-sm-none d-md-block d-lg-none" data-toggle="modal"
+                    data-target="#BookappointmentModal"> -->
+                    <button class="btn health-checkup my-2 my-sm-0" type="submit">Health Check-up</button>
+                </a>
+            </div>
+        </div>
+
+    </div>
+    <div class="row d-sm-none d-md-none d-lg-none search-mob pb-3">
+        <div class="input-group input-search position-relative">
+            <input type="text" id="search_web_mobile" placeholder="Search Specialities, Doctors.." name="text"
+                class="form-control search title ui-autocomplete-input" autocomplete="off">
+            <img class="search-icon" src="https://www.sakrapremiumclinic.com/assets/images/search.png" alt="search">
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+    <script src="https://www.sakrapremiumclinic.com/assets/js/owl.carousel.js"></script>
+    <script src="https://www.sakrapremiumclinic.com/assets/js/owl.carousel.min.js"></script>
+    <script src="https://www.sakrapremiumclinic.com/assets/js/validate.js"></script>
+
+
+    
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('#search_web').autocomplete({
+
+            source: "https://www.sakrapremiumclinic.com/Home/header_search",
+            open: function(event, ui) {
+                if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+                    $('.ui-autocomplete').off('menufocus hover mouseover mouseenter');
+
+
+                }
+            },
+            select: function(event, ui) {
+                $('#search_web').val('');
+                window.location.href = ui.item.link;
+                $('#search_web')[0].reset();
+            }
+        });
+        $('#search_web_mobile').autocomplete({
+            source: "https://www.sakrapremiumclinic.com/Home/header_search",
+            open: function(event, ui) {
+                if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+                    $('.ui-autocomplete').off('menufocus hover mouseover mouseenter');
+                }
+            },
+            select: function(event, ui) {
+                $('#search_web_mobile').val('');
+                window.location.href = ui.item.link;
+                $('#search_web_mobile')[0].reset();
+            }
+        });
+    });
+    </script>
+
+
+<!-- video consultation modal popup start-->
+<div class="modal fade" id="videoconsultationform" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog video-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header video-md-hd">
+                <img src="assets/images/videomodal-close.png" alt="" class="close" data-dismiss="modal" aria-label="Close">
+            </div>
+            <div class="modal-body video-reqs">
+                <div class="req-con">
+                    <p>Request Video Consulting</p>
+                </div>
+            <form id="video_consultation_form" name="video_consultation_form">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label class="lable-col">Name</label>
+                        <input type="text" class="form-control" id="video_name" name="video_name" placeholder="Name">
+                        <span class="apply-text" id="video_nameError"></span>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label class="lable-col">Email Id</label>
+                        <input type="text" class="form-control" id="video_email" name="video_email" placeholder="Email Id">
+                        <span class="apply-text" id="video_emailError"></span>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label class="lable-col">Mobile</label>
+                        <input type="text" class="form-control" id="video_mobile" name="video_mobile" placeholder="Mobile">
+                        <span class="apply-text" id="video_mobileError"></span>
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label class="lable-col">Gender</label>
+                        <select id="video_gender" name="video_gender" class="form-control">
+                            <option selected value="">Gender</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                        <span class="apply-text" id="video_genderError"></span>
+                    </div>
+                    <div class="form-group col-md-3" id='datetimepicker1'>
+                        <label class="lable-col">Date of Birth</label>
+                        <div class="db-input">
+                            <input type="text" class="form-control img-dt" id="video_datebirth" name="video_datebirth" placeholder="dd/mm/yyyy">
+                            <img src="assets/images/date-pick.png" alt="" id="datepickerfrom">
+                        </div>
+                        <span class="apply-text" id="video_datebirthError"></span>
+                        
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <p class="lable-col">Registered with Sakra?</p>
+                        <div class="form-check form-check-inline" id="yes-block1">
+                            <input class="form-check-input" type="radio" name="radioGroup_new" id="inlineRadio1" value="Y">
+                            <label class="lable-col" for="inlineCheckbox1">Yes</label>
+                        </div>
+                        <div class="form-check form-check-inline" id="no-block1">
+                            <input class="form-check-input" type="radio" name="radioGroup_new" id="inlineRadio2" value="N" checked>
+                            <label class="lable-col" for="inlineCheckbox2">No</label>
+                        </div>
+                        <span class="apply-text" id="video_radioError"></span>
+                    </div>
+                    <div id="display-block1" class="form-group col-md-6" style="visibility: hidden">
+                        <label class="lable-col">Please enter UHID</label>
+                        <input type="text" class="form-control" id="video_uhid" name="video_uhid" placeholder="UHID">
+                        <span class="car_error apply-text" id="video_uhidError"></span>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-3" id='datetimepicker1'>
+                        <label class="lable-col">Preferred Date 1</label>
+                        <div class="db-input">
+                        <input type="text" class="form-control img-dt" id="video_prefdate1" name="video_prefdate1" placeholder="dd/mm/yyyy" onchange="datepicker_change1(this.value)">
+                        <img src="assets/images/date-pick.png" alt="" id="datepickerfrom">
+                        <span class="apply-text" id="video_pref1Error"></span>
+                        </div>
+                    </div>
+                    <!-- <div class="form-group col-md-2">
+                        <label class="lable-col">Time1</label>
+                        <select id="video_time1" name="video_time1" class="form-control">
+                            
+                        </select>
+                    </div>
+                    <div class="form-group col-md-1">
+                        <label></label>
+                        <select id="video_pre_mts1" name="video_pre_mts1" class="form-control vd-sec">
+                            <option value="00">00</option>
+                            <option value="15">15</option>
+                            <option value="30">30</option>
+                            <option value="45">45</option>
+                        </select>
+
+                    </div> -->
+                    <div class="form-group col-md-3" id='datetimepicker1'>
+                        <label class="lable-col">Preferred Date 2</label>
+                        <div class="db-input">
+                        <input type="text" class="form-control img-dt" id="video_prefdate2" name="video_prefdate2" placeholder="dd/mm/yyyy" onchange="datepicker_change2(this.value)">
+                        <img src="assets/images/date-pick.png" alt="" id="datepickerfrom">
+                        <span class="apply-text" id="video_pref2Error"></span>
+                        </div>
+                    </div>
+                    <!-- <div class="form-group col-md-2">
+                        <label class="lable-col">Time2</label>
+                        <select id="video_time2" name="video_time2" class="form-control">
+                            
+                        </select>
+                    </div>
+                    <div class="form-group col-md-1">
+                        <label></label>
+                        <select id="video_pre_mts2" name="video_pre_mts1" class="form-control vd-sec">
+                            <option value="00">00</option>
+                            <option value="15">15</option>
+                            <option value="30">30</option>
+                            <option value="45">45</option>
+                        </select>
+                    </div> -->
+                </div>
+                <div class="lable-colp">
+                    <p>Preferred Date will be subject to doctor availability and our executive will get in touch with you within 24 hour.</p>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label class="lable-col">Speciality *</label>
+                        <select id="video_spl_new_id" name="video_spl_new_id" class="form-control" onchange="fetch_doctors_for_video_consultation(this.value);">
+                            <option value="0">Select speciality</option>
+                                                        <option value="1">
+                                Neurology                            </option>
+                                                        <option value="2">
+                                Cardiology                            </option>
+                                                        <option value="3">
+                                Orthopaedic                            </option>
+                                                        <option value="4">
+                                Gastroenterology                            </option>
+                                                        <option value="5">
+                                Obstetrics & Gynaecology                            </option>
+                                                        <option value="6">
+                                Paediatrics                            </option>
+                                                        <option value="7">
+                                Internal Medicine                            </option>
+                                                        <option value="9">
+                                ENT                            </option>
+                                                        <option value="10">
+                                Dental                            </option>
+                                                        <option value="11">
+                                Dermatology                            </option>
+                                                        <option value="15">
+                                Nephrology                            </option>
+                                                        <option value="16">
+                                Neurosurgery                            </option>
+                                                        <option value="17">
+                                Plastic Surgery                            </option>
+                                                        <option value="18">
+                                Urology                            </option>
+                                                        <option value="20">
+                                Pulmonology                            </option>
+                                                        <option value="21">
+                                GI Surgery                            </option>
+                                                        <option value="22">
+                                CTVS                            </option>
+                                                        <option value="23">
+                                Hair Transplant                             </option>
+                                                    </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label class="lable-col">Doctor *</label>
+                        <select id="video_doc_id" name="video_doc_id" class="form-control" onchange="get_particular_doctor_fee(this.value)">
+                            <option value="0">Select Doctor</option>
+                        </select>
+                    </div>
+                </div>
+                
+
+                
+                
+                <div class="form-group">
+                    <label class="lable-col">Description</label>
+                    <textarea type="text" class="form-control" id="video_desc" name="video_desc" placeholder="Description"rows="3"></textarea>
+                    <span class="apply-text" id="video_descpError"></span>
+                </div>
+                <div class="form-group">
+                    <div class="consultation_fee_changes"></div>
+                </div>
+                <button id="video_consulting_req_submit" name="video_consulting_req_submit" type="button" class="videopybt" onclick="video_con_mst();">Pay Now</button>
+                
+                
+                <div class="lable-col">
+                    <ul class="disclaimer">
+                        <p class="lable-col1"><strong>Disclaimer & Instructions:</strong></p>
+                        <li>Video Consultation duration will be 10 minutes</li>
+                        <li>If you are eligible for follow-up consultation as per Sakra policy, you will be getting refund in 6-7 working days</li>
+                        <li>Please keep patient Medical history & record ready before joining the Video Consultation</li>
+                        <li>Consultation will be based on given inputs by patient or attendant</li>
+                        <li>You can approach us (<a href="tel:+91 80 49695080">+91 80 49695080</a> &amp; <a href="tel:+91 9606028119">+91 9606028119</a>) for Homecare services like Lab Sample collection, Rehab services and Medicine delivery etc</li>
+                        <li>For cancellation request, please call us at <a href="tel:+91 80 68909090">+91 80 68909090</a> or write us at <a href="email:SPC.Sarjapur@Sakraworldhospital.com">SPC.Sarjapur@Sakraworldhospital.com</a></li>
+                        
+                    </ul>
+                </div>
+            </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- video consultation modal popup end-->
+<script>
+$('#yes-block1').click(function() {
+    $('#display-block1').css("visibility", "visible");
+});
+
+$('#no-block1').click(function() {
+    $('#display-block1').css("visibility", "hidden");
+});
+$(document).ready(function() {
+    $("#video_datebirth").datepicker({
+        maxDate: '0',changeMonth: true, changeYear: true, yearRange: "-90:+00"
+    });
+});
+$(document).ready(function() {
+    $("#video_prefdate1").datepicker({
+        minDate: 0,
+        maxDate: '+3M'
+    });
+});
+$(document).ready(function() {
+    $("#video_prefdate2").datepicker({
+        minDate: 0,
+        maxDate: '+3M'
+    });
+});
+
+
+function datepicker_change1(selected_date){
+    var MyDate = new Date();
+    var MyDateString;
+
+    
+
+    MyDateString = ('0' + (MyDate.getMonth()+1)).slice(-2) + '/'
+                + ('0' + MyDate.getDate()).slice(-2) + '/'
+                + MyDate.getFullYear();
+
+    var gethours = MyDate.getHours();
+    
+    if(selected_date == MyDateString) {
+        if(gethours == 9){
+            document.getElementById("video_time1").innerHTML = '<option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 10){
+            document.getElementById("video_time1").innerHTML = '<option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 11){
+            document.getElementById("video_time1").innerHTML = '<option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 12){
+            document.getElementById("video_time1").innerHTML = '<option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 13){
+            document.getElementById("video_time1").innerHTML = '<option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 14){
+            document.getElementById("video_time1").innerHTML = '<option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 15){
+            document.getElementById("video_time1").innerHTML = '<option value="16">16</option>';
+        } else {
+            document.getElementById("video_time1").innerHTML = '';
+        }
+    } else {
+        document.getElementById("video_time1").innerHTML = '<option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+    }
+}
+
+function datepicker_change2(selected_date){
+    var MyDate = new Date();
+    var MyDateString;
+
+    
+
+    MyDateString = ('0' + (MyDate.getMonth()+1)).slice(-2) + '/'
+                + ('0' + MyDate.getDate()).slice(-2) + '/'
+                + MyDate.getFullYear();
+
+    var gethours = MyDate.getHours();
+    
+    if(selected_date == MyDateString) {
+        if(gethours == 9){
+            document.getElementById("video_time2").innerHTML = '<option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 10){
+            document.getElementById("video_time2").innerHTML = '<option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 11){
+            document.getElementById("video_time2").innerHTML = '<option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 12){
+            document.getElementById("video_time2").innerHTML = '<option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 13){
+            document.getElementById("video_time2").innerHTML = '<option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 14){
+            document.getElementById("video_time2").innerHTML = '<option value="15">15</option><option value="16">16</option>';
+        } else if(gethours == 15){
+            document.getElementById("video_time2").innerHTML = '<option value="16">16</option>';
+        } else {
+            document.getElementById("video_time2").innerHTML = '';
+        }
+    } else {
+        document.getElementById("video_time2").innerHTML = '<option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option>';
+    }
+}
+
+
+
+function video_con_mst() {
+    var video_name = $('#video_name').val();
+    var video_email = $('#video_email').val();
+    var video_mobile = $('#video_mobile').val();
+    var video_gender = $('#video_gender').val();
+    var video_datebirth = $('#video_datebirth').val();
+    var video_yes_no1 = $('input:radio[name=radioGroup_new]:checked').val();
+    var video_uhid = $('#video_uhid').val();
+    var video_prefdate1 = $('#video_prefdate1').val();
+    var video_time1 = $('#video_time1').val();
+    var video_prefdate2 = $('#video_prefdate2').val();
+    var video_time2 = $('#video_time2').val();
+    var video_spl_new_id = $('#video_spl_new_id').val();
+    var video_doc_id = $('#video_doc_id').val();
+    var video_desc = $('#video_desc').val();
+    var patt = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var valid = 0;
+    if (video_name == '') {
+        $('#video_nameError').text('Please enter your name');
+        $('#video_name').css('border-color', 'red');
+        $("#video_name").focus();
+        return false;
+    } else {
+        $('#video_name').css('border-color', 'green');
+        $('#video_nameError').text('');
+        valid++;
+    }
+    if (video_email == '') {
+        $('#video_emailError').text('Please enter your email id');
+        $('#video_email').css('border-color', 'red');
+        $("#video_email").focus();
+        return false;
+    } else if (!(patt.test(video_email))) {
+        $('#video_emailError').text('Please enter your valid email id');
+        $('#video_email').css('border-color', 'red');
+        $("#video_email").focus();
+        return false;
+    } else {
+        $('#video_email').css('border-color', 'green');
+        $('#video_emailError').text('');
+        valid++;
+    }
+    if (video_mobile == '') {
+        $('#video_mobileError').text('Please enter your phone number');
+        $('#video_mobile').css('border-color', 'red');
+        $("#video_mobile").focus();
+        return false;
+    } else {
+        $('#video_mobile').css('border-color', 'green');
+        $('#video_mobileError').text('');
+        valid++;
+    }
+    if (video_gender == '') {
+        $('#video_genderError').text('Please enter your gender');
+        $('#video_gender').css('border-color', 'red');
+        $("#video_gender").focus();
+        return false;
+    } else {
+        $('#video_gender').css('border-color', 'green');
+        $('#video_genderError').text('');
+        valid++;
+    }
+    if (video_datebirth == '') {
+        $('#video_datebirthError').text('Please enter your data birth');
+        $('#video_datebirth').css('border-color', 'red');
+        $("#video_datebirth").focus();
+        return false;
+    } else {
+        $('#video_datebirth').css('border-color', 'green');
+        $('#video_datebirthError').text('');
+        valid++;
+    }
+
+    
+    if (video_yes_no1 == '') {
+        $('#video_radioError').text('Please enter your yes or no');
+        $('#video_yes_no').css('border-color', 'red');
+        $("#video_yes_no").focus();
+        return false;
+    } else {
+        $('#video_yes_no').css('border-color', 'green');
+        $('#video_radioError').text('');
+        valid++;
+    }
+    
+    
+    if(video_yes_no1 == "Y"){
+        if (video_uhid == '') {
+            $('#video_uhidError').text('Please enter your UHID');
+            $('#video_uhid').css('border-color', 'red');
+            $("#video_uhid").focus();
+            return false;
+        } else {
+            $('#video_uhid').css('border-color', 'green');
+            $('#video_uhidError').text('');
+            valid++;
+        }
+    }else {
+        valid++;
+    }
+
+    if (video_prefdate1 == '') {
+        $('#video_pref1Error').text('Please enter your Preferred date1');
+        $('#video_prefdate1').css('border-color', 'red');
+        $("#video_prefdate1").focus();
+        return false;
+    } else {
+        $('#video_prefdate1').css('border-color', 'green');
+        $('#video_pref1Error').text('');
+        valid++;
+    }
+    if (video_time1 == '') {
+        $('#video_time1Error').text('Please enter your Preferred Time1');
+        $('#video_time1').css('border-color', 'red');
+        $("#video_time1").focus();
+        return false;
+    } else {
+        $('#video_time1').css('border-color', 'green');
+        $('#video_time1Error').text('');
+        valid++;
+    }
+    if (video_prefdate2 == '') {
+        $('#video_pref2Error').text('Please enter your Preferred date2');
+        $('#video_prefdate2').css('border-color', 'red');
+        $("#video_prefdate2").focus();
+        return false;
+    } else {
+        $('#video_prefdate2').css('border-color', 'green');
+        $('#video_pref2Error').text('');
+        valid++;
+    }
+    if (video_time2 == '') {
+        $('#video_time2Error').text('Please enter your Preferred Time2');
+        $('#video_time2').css('border-color', 'red');
+        $("#video_time2").focus();
+        return false;
+    } else {
+        $('#video_time2').css('border-color', 'green');
+        $('#video_time2Error').text('');
+        valid++;
+    }
+    if (video_spl_new_id == '') {
+        $('#video_spl_new_idError').text('Please enter your Description');
+        $('#video_spl_new_id').css('border-color', 'red');
+        $("#video_spl_new_id").focus();
+        return false;
+    } else {
+        $('#video_spl_new_id').css('border-color', 'green');
+        $('#video_spl_new_idError').text('');
+        valid++;
+    }
+    if (video_doc_id == '') {
+        $('#video_doc_idError').text('Please enter your Doctor');
+        $('#video_doc_id').css('border-color', 'red');
+        $("#video_doc_id").focus();
+        return false;
+    } else {
+        $('#video_doc_id').css('border-color', 'green');
+        $('#video_doc_idError').text('');
+        valid++;
+    }
+    if (video_desc == '') {
+        $('#video_descpError').text('Please enter your Description');
+        $('#video_desc').css('border-color', 'red');
+        $("#video_desc").focus();
+        return false;
+    } else {
+        $('#video_desc').css('border-color', 'green');
+        $('#video_descpError').text('');
+        valid++;
+    }
+    if (valid == 14) {
+
+        var speciality_id_value = $("#video_spl_new_id").val();
+        if(speciality_id_value == "") {
+            speciality_id_value = 0;
+        }
+        var uhid = $("#video_uhid").val();
+        if(uhid == "") {
+            uhid = "0";
+        }
+        var data = new FormData();
+        data.append("user_name", $("#video_name").val());
+        data.append("user_email", $("#video_email").val());
+        data.append("user_mobile", $("#video_mobile").val());
+        data.append("gender", $("#video_gender").val());
+        data.append("dob", $("#video_datebirth").val());
+        data.append("spl_id", speciality_id_value);
+        data.append("doc_id", $("#video_doc_id").val());
+        data.append("uhid", uhid);
+        data.append("pre_date1", $("#video_prefdate1").val());
+
+        data.append("pre_hour1", "0");
+        data.append("pre_mts1", "0");
+
+        data.append("pre_date2", $("#video_prefdate2").val());
+
+        data.append("pre_hour2", "0");
+        data.append("pre_mts2", "0");
+
+        data.append("video_spl_new_id", $("#video_spl_new_id").val());
+        data.append("video_doc_id", $("#video_doc_id").val());
+        data.append("appoinment_desc", $("#video_desc").val());
+        $.ajax({
+            type: "POST",
+            async: false,
+            url: 'https://www.sakrapremiumclinic.com/video-consultation/api.php?action=payment_insert_setp1',
+            data: data,
+            cache: false,
+            processData: false, // important
+            contentType: false,
+            beforeSend: function() {
+                $("#video_consulting_req_submit").attr("disabled", "disabled");
+                $('#video_consulting_req_submit').text('Submiting..');
+            },
+            success: function(res) {
+
+                var obj = JSON.parse(res);
+                // console.log(obj.insert_id);
+
+                //Encryption
+                function EncryptData(data) {
+                    let ciphertext = CryptoJS.AES.encrypt(data.toString(), '536756');
+                    return ciphertext
+                }
+                // Decrypt
+                function DecryptData(ciphertext) {
+                    let bytes = CryptoJS.AES.decrypt(ciphertext, '536756');
+                    let plaintext = bytes.toString(CryptoJS.enc.Utf8);
+                    return plaintext
+                }
+
+                var userDetails = {
+                    name : video_name,
+                    mobile : video_mobile,
+                    email : video_email,
+                    uhid : video_uhid,
+                    id : obj.insert_id,
+                    amount : obj.amount
+                };
+                var EncryptData_id = EncryptData(JSON.stringify(userDetails));
+
+                localStorage.setItem('userDetails', EncryptData_id);
+
+                
+                $('#video_consultation_form')[0].reset();
+                if (obj.insert_id > 0) {
+                   window.location.href = 'https://www.sakrapremiumclinic.com/video-consultation-pay-online/';
+                } else {
+                    window.location.href = 'https://www.sakrapremiumclinic.com/';
+                }
+
+            }
+        })
+        return true;
+    } else {
+        return false;
+    }
+
+}
+</script>
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+
+
+
+<link rel="canonical" href="">
+
+
+<div class="service_banner d-none d-sm-none d-md-block d-lg-block">
+    <img src="https://www.sakrapremiumclinic.com/assets/images/service-banner.png" alt="service-banner" class="img-fluid">
+</div>
+<div class="service_banner d-sm-block d-md-none d-lg-none">
+    <img src="https://www.sakrapremiumclinic.com/assets/images/banner-phn.png" alt="service-banner" class="img-fluid">
+</div>
+<div class="container">
+      <div class="services text-center blog-details-heading">
+            <h4 class="sakra_services_heading" style="    line-height: 45px;">Quarantine Skin and Hair Care at Home</h4>
+      </div>
+      <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="media blog-details-wrap">
+        <div class="media-body">
+        <div class="nw-media">
+                <img title="" style="    margin-bottom: 0;margin-right: 0;" alt="" class="media-object pull-right img responsive mr-0" src="https://www.sakrapremiumclinic.com/sakraclinic-admin/assets/images/blogs/quarantine-skin-and-hair-care-at-home.png">
+            </div>
+            <div class="test-desc">
+            <p style="    text-align: justify;"> <span>
+                <p>Traditional remedies are the best and most affordable way to get flawless skin and hair growth. During the lockdown, you can&rsquo;t go to the salon, but there are ways to take care of your skin and locks at home during the quarantine.<br />
+Just like face masks, hair masks are easy to make and give great results. So if you want smooth, shiny hair, good volume and great length then try the below hair packs or masks.<br />
+There are so many ingredients at home, in your kitchen that you can use for home remedies because if there was ever a time to be kind to yourself, it is now.</p>
+
+<p><strong>Turmeric</strong><br />
+Turmeric is antioxidant and anti-inflammatory in nature. It helps in brightening, rejuvenating the dull skin and hence improving overall complexion. Make a simple mask with turmeric, honey, and milk and apply it on your face and neck to get glowing skin.</p>
+
+<p><strong>Lemon Juice</strong><br />
+Vitamin C is very important for our body and also for our skincare. Lemon juice is the easiest way to induce vitamin C into your body. Apply diluted lemon juice on your face with a cotton ball, it acts as a toner and vitamin C serum. Before applying lemon on the face, do a patch test as it is acidic in nature, it can irritate sensitive skin.</p>
+
+<p><br />
+<strong>Multani Mitti Face Mask</strong><br />
+Multani Mitti is rich in Aluminium Silicate and Magnesium Silicate that provide the clay with its excellent adsorbent properties. Mix Multani mitti with orange peel powder, lemon juice, turmeric powder and honey. Apply the paste on your face and let it completely dry off, then wash it with water. This is a very good face mask for oily skin.</p>
+
+<p><strong>Cold Face Pack</strong><br />
+Grind tomato, cucumber, mint, and potato and mix it with rose water. Put it in an ice tray and apply it on the face in the morning, let it dry and wash it off.&nbsp;</p>
+
+<p><strong>Fenugreek seeds</strong><br />
+Fenugreek seeds can make your hair shiny. Soak the seeds overnight and then make a mask by adding a paste of fenugreek seeds in the coconut oil. Apply the mask for 1-2 hours and use the pack regularly to improve hair and scalp health.</p>
+
+<p><strong>Rice water</strong><br />
+Rice water contains inositol which can repair damaged hair. It can be used as a hair rinse, which will help to strengthen the hair. So, if you have weak and thin hair, this magic potion can be your ultimate hair saviour.</p>
+
+<p><strong>Aloe Vera</strong><br />
+Aloe vera helps in balancing the Ph levels of the scalp and hair and promotes hair growth. Mix the aloe vera gel with coconut oil or olive oil and the mixture directly on the scalp and let it sit for an hour. Wash your hair with a mild shampoo and repeat this process 2-3 times a week.</p>
+
+<p><strong>Potatoes</strong><br />
+Potatoes contain potassium, Vitamin C, and iron which play vital roles in maintaining hair health. Blend a medium-sized potato and squeeze out its juice. Mix one tablespoon honey in the juice and apply the mixture on the scalp as well as hair strands and leave it for 1 hour. Wash It off with a mild shampoo and repeat the process weekly for best results.</p>
+
+<p><strong>Egg White Mask</strong><br />
+Eggs are a rich source of protein, Vitamin B and other essential nutrients which helps in hair growth. Mix egg white with coconut oil and apply it on your scalp for 1 hour. Wash your hair with mild shampoo and conditioner.</p>
+
+<p><strong>Banana Hair mask</strong><br />
+Mash one ripe banana and mix it with a tablespoon of olive oil and coconut oil. Add a tablespoon of honey to the mixture and apply the mask on your hair. Leave the mask on your hair for 15 minutes and wash it off with lukewarm water. This mask gives smooth and shiny hair and also prevents hair loss.</p>
+                </span></p>
+            </div>
+         
+        </div>
+    </div>
+</div>
+      </div>
+</div><footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-4 col-sm-6 col-md-4 col-lg-3">
+                <h3>Sakra Clinic</h3>
+                <ul>
+                    <a href="https://www.sakrapremiumclinic.com/about-us">
+                        <li>About Sakra</li>
+                    </a>
+                    <!-- <a href="#">
+                        <li>Quality & Safety</li>
+                    </a>
+                    <a href="#">
+                        <li>Our Vision & Mission</li>
+                    </a> -->
+                    <a href="https://www.sakrapremiumclinic.com/contact">
+                        <li>Contact us</li>
+                    </a>
+                </ul>
+                <h3 class="margin-top-40">Patient care</h3>
+                <ul>
+                    <a href="https://www.sakrapremiumclinic.com/policy">
+                        <li>Patient Info</li>
+                    </a>
+                    <!-- <a href="#">
+                        <li>Insurance policy</li>
+                    </a>
+                    <a href="#">
+                        <li>Sakra advantage</li>
+                    </a> -->
+                    <a href="https://www.sakrapremiumclinic.com/support">
+                        <li>Support services</li>
+                    </a>
+                    <!-- <a href="#">
+                        <li>Quality & service</li>
+                    </a> -->
+                </ul>
+            </div>
+            <div class="col-8 col-sm-12 col-md-8 col-lg-6">
+                <h3>Sakra Clinic Specialities</h3>
+                <div class="row">
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                        <ul>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/neurology-clinic-in-bangalore">
+                                <li>Neurology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/cardiology-clinic-in-bangalore">
+                                <li>Cardiology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/orthopaedic-clinic-in-bangalore">
+                                <li>Orthopaedic</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/gastroenterology-clinic-in-bangalore">
+                                <li>Gastroenterology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/obstetrics-and-gynaecology-clinic-in-bangalore">
+                                <li>Obstetrics & Gynaecology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/paediatrics-clinic-in-bangalore">
+                                <li>Paediatrics</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/internal-medicine-clinic-in-bangalore">
+                                <li>Internal Medicine</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/ent-clinic-in-bangalore">
+                                <li>ENT</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/dental-clinic-in-bangalore">
+                                <li>Dental</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/dermatology-clinic-in-bangalore">
+                                <li>Dermatology</li>
+                            </a>
+                                                    </ul>
+                    </div>
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                        <ul>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/nephrology-clinic-in-bangalore">
+                                <li>Nephrology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/neuro-surgery-clinic-in-bangalore">
+                                <li>Neurosurgery</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/plastic-surgery-clinic-in-bangalore">
+                                <li>Plastic Surgery</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/urology-clinic-in-bangalore">
+                                <li>Urology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/pulmonology-clinic-in-bangalore">
+                                <li>Pulmonology</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/gi-surgery-clinic-in-bangalore">
+                                <li>GI Surgery</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/ctvs-clinic-in-bangalore">
+                                <li>CTVS</li>
+                            </a>
+                                                        <a href="https://www.sakrapremiumclinic.com/specialities/hair-transplant">
+                                <li>Hair Transplant </li>
+                            </a>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="col-12 col-sm-6 col-md-12 col-lg-3">
+                <div class="row">
+                    <div class="col-6 col-sm-12 col-md-6 col-lg-12">
+                    <h3>General Health Check-up</h3>
+                      <ul>
+                        <a href="#"><li></li></a>
+                            <a href="https://www.sakrapremiumclinic.com/healthcheckup/executive-health-package"><li>General Health Checkup</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/healthcheckup/senior-citizen"><li>Age Specific Health Checkup</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/healthcheckup/hypertension-check"><li>Condition Specific Health Checkup</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/healthcheckup/well-woman"><li>Well Women</li></a>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-sm-12 col-md-6 col-lg-12">
+                    <h3>Sakra Premium Clinic</h3>
+                        <ul>
+                           <a href="#"><li></li></a>
+                            <a href="https://www.sakrapremiumclinic.com/doctor"><li>Doctors</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/service"><li>Services</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/blog"><li>Blog</li></a>
+                            <a href="https://www.sakrapremiumclinic.com/testimonials"><li>Patient Speak</li></a>
+                        </ul>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</footer>
+<div id="button">
+    <img src="https://www.sakrapremiumclinic.com/assets/images/up-arrow.png" alt="">
+    <span>BACK TO TOP</span>
+</div>
+<div class="footer-socila-icon">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-4 col-lg-6">
+                <h3>Address</h3>
+                <address>
+                    <span> Sakra Premium Clinic, Bren Mercury, </span><br>
+                    <span>1st Floor, Kaikondrahalli Junction, Sarjapur Main Rd,<br>Kaikondrahalli, Bengaluru,
+                    </span><br>
+                    <span> Karnataka 560035.<br> Contact us: 080 68909090</span><br>
+                </address>
+            </div>
+            <div class="col-12 col-sm-12 col-md-4 col-lg-3 margin-bottom-30">
+                <h3>Get Sakra app</h3>
+                <div class="google-store">
+                    <img src="https://www.sakrapremiumclinic.com/assets/images/footerimg1.png" class="margin-bottom"><br>
+                    <img src="https://www.sakrapremiumclinic.com/assets/images/footerimg2.png"></div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-4 col-lg-3">
+                <!-- <div class="help d-none d-sm-none d-md-block d-lg-block">
+                  <span> <img src="https://www.sakrapremiumclinic.com/assets/images/question.png"></span>Hide & Support</div> -->
+                <ul class="footer-link">
+                    <!-- <a href="#"> <li>BMW report </li></a> -->
+                    <a href="https://www.sakrapremiumclinic.com/sitemap">
+                        <li>Sitemap</li>
+                    </a>
+                    <a href="https://www.sakrapremiumclinic.com/policy">
+                        <li>Privacy policy </li>
+                    </a>
+                </ul>
+                <p>Copyright © Sakra Premium Clinic</p>
+            </div>
+        </div>
+        <div class="d-sm-block d-md-none d-lg-none row footer-help">
+            <div>
+                <img src="https://www.sakrapremiumclinic.com/assets/images/footer-phone.png" alt="call-icon" class="img-fluid">
+            </div>
+            <a href="tel:080 68909090">080 68909090 to Book an Appointment</a>
+            <div>
+                <img src="https://www.sakrapremiumclinic.com/assets/images/footer-help.png" alt="call-icon" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="BookappointmentModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+
+            <div class="modal-header">
+                <h4 class="modal-title text-center">Book an appointment</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+
+            <div class="modal-body">
+                <form method="post" action="https://www.sakrapremiumclinic.com/Bookanappointment/save" accept-charset="utf-8">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="name" placeholder="Name" name="name"
+                            onkeypress="return onlyAlphabets(event);" required>
+                        <span id="ErrorName" class="display_error"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Email ID" name="email" id="email" required>
+                        <span id="ErrorEmail" class="display_error"></span>
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" placeholder="Mobile" class="form-control inputTelcon" minlength="10"
+                            maxlength="15" id="mobile" name="mobile" onkeypress="return isNumberKey(event); required">
+                        <span id="ErrorMobile" class="display_error"></span>
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <select id="dropdown" id="speciality_name" name="speciality_name" class="form-control"
+                            onChange="fetch_doctors(this.value);">
+                            <option value="0">Select speciality</option>
+                                                        <option value="1">
+                                Neurology                            </option>
+                                                        <option value="2">
+                                Cardiology                            </option>
+                                                        <option value="3">
+                                Orthopaedic                            </option>
+                                                        <option value="4">
+                                Gastroenterology                            </option>
+                                                        <option value="5">
+                                Obstetrics & Gynaecology                            </option>
+                                                        <option value="6">
+                                Paediatrics                            </option>
+                                                        <option value="7">
+                                Internal Medicine                            </option>
+                                                        <option value="9">
+                                ENT                            </option>
+                                                        <option value="10">
+                                Dental                            </option>
+                                                        <option value="11">
+                                Dermatology                            </option>
+                                                        <option value="15">
+                                Nephrology                            </option>
+                                                        <option value="16">
+                                Neurosurgery                            </option>
+                                                        <option value="17">
+                                Plastic Surgery                            </option>
+                                                        <option value="18">
+                                Urology                            </option>
+                                                        <option value="20">
+                                Pulmonology                            </option>
+                                                        <option value="21">
+                                GI Surgery                            </option>
+                                                        <option value="22">
+                                CTVS                            </option>
+                                                        <option value="23">
+                                Hair Transplant                             </option>
+                                                    </select>
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <select id="speciality_doctor" name="speciality_doctor" class="form-control">
+                            <option value="0">Select Doctor</option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"
+                            required style="resize: none;"></textarea>
+                        <span id="ErrorMessage" class="display_error"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary" onclick="form_validation();">Submit</button>
+                </form>
+            </div>
+
+            <!-- <div class="modal-header">
+                <h4 class="modal-title text-center">Considering the patient safety, We are temperorily withdrawing the online appointments.We will come back soon.</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div> -->
+
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="CorporateEnquiryModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title text-center">Corporate Enquiry</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <form method="post" action="https://www.sakrapremiumclinic.com/Bookanappointment/Corporateenquiry"
+                    accept-charset="utf-8">
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="corporate_name" placeholder="Name"
+                            name="corporate_name" onkeypress="return onlyAlphabets(event);" required>
+                        <span id="ErrorcorporateName" class="corporate_error"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Email ID" name="corporate_email"
+                            id="corporate_email" required>
+                        <span id="ErrorcorporateEmail" class="corporate_error"></span>
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" placeholder="Mobile" class="form-control inputTelcon" minlength="10"
+                            maxlength="15" id="corporate_mobile" name="corporate_mobile"
+                            onkeypress="return isNumberKey(event); required">
+                        <span id="ErrorcorporateMobile" class="corporate_error"></span>
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <textarea class="form-control" rows="5" id="corporate_message" name="corporate_message"
+                            placeholder="Message" required style="resize: none;"></textarea>
+                        <span id="ErrorcorporateMessage" class="corporate_error"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary"
+                        onclick="corporate_enquiry_validation();">Submit</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<script>
+$(".drop, .dropdown").hover(
+    function() {
+        $('>.dropdown-menu', this).stop(true, true).fadeIn("fast");
+        $(this).addClass('open');
+    },
+    function() {
+        $('>.dropdown-menu', this).stop(true, true).fadeOut("fast");
+        $(this).removeClass('open');
+    });
+</script>
+<script>
+$(document).ready(function() {
+    // Add minus icon for collapse element which is open by default
+    $(".collapse.show").each(function() {
+        $(this).prev(".card-header").find(".fa").addClass("fa-minus").removeClass("fa-plus");
+    });
+
+    // Toggle plus minus icon on show hide of collapse element
+    $(".collapse").on('show.bs.collapse', function() {
+        $(this).prev(".card-header").find(".fa").removeClass("fa-plus").addClass("fa-minus");
+    }).on('hide.bs.collapse', function() {
+        $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
+    });
+});
+
+function onlyAlphabets(e) {
+    var k;
+    document.all ? k = e.keyCode : k = e.which;
+    return ((k > 64 && k < 91) || (k > 96 && k < 123) || k == 8 || k == 0 || k == 11 || k == 13 || k == 9 || k ==
+        32);
+}
+
+function isNumberKey(evt) {
+    var charCode = (evt.which) ? evt.which : evt.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57) && (charCode != 43) && (charCode != 8) && (charCode !=
+            43) && (charCode != 127))
+        return false;
+    return true;
+}
+
+
+function form_validation() {
+    var name = $('#name').val();
+    var mobile = $('#mobile').val();
+    var email = $('#email').val();
+    var message = $('#message').val();
+
+    var email_regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var valid = 0;
+
+    if (name == '') {
+        $('#ErrorName').text('Please enter your name');
+        $('#name').css('border-color', 'red');
+        $("#name").focus();
+        return false;
+    } else {
+        $('#ErrorName').text('');
+        $('#name').css('border-color', 'green');
+        valid++;
+    }
+    var mobvalue = document.getElementById('mobile').value;
+    if (mobile == '') {
+        $('#ErrorMobile').text('Please enter your mobile');
+        $('#mobile').css('border-color', 'red');
+        $("#mobile").focus();
+        return false;
+    } else if (mobvalue.length < 10) {
+        $('#ErrorMobile').text('Please enter at least 10 digit number ');
+        $('#mobile').css('border-color', 'red');
+        $("#mobile").focus();
+        return false;
+    } else {
+        $('#ErrorMobile').text('');
+        $('#mobile').css('border-color', 'green');
+        valid++;
+    }
+
+    if (email == '') {
+        $('#ErrorEmail').text('Please enter your email id');
+        $('#email').css('border-color', 'red');
+        $("#email").focus();
+        return false;
+    } else if (!(email_regex.test(email))) {
+        $('#ErrorEmail').text('Please enter your valid email id');
+        $('#email').css('border-color', 'red');
+        $("#email").focus();
+        return false;
+    } else {
+        $('#email').css('border-color', 'green');
+        $('#ErrorEmail').text('');
+        valid++;
+    }
+
+    if (message == '') {
+        $('#ErrorMessage').text('Please enter your message');
+        $('#message').css('border-color', 'red');
+        $("#message").focus();
+        return false;
+    } else {
+        $('#ErrorMessage').text('');
+        $('#message').css('border-color', 'green');
+        valid++;
+    }
+
+    return false;
+}
+// Corporate Enquiry form validation
+
+function corporate_enquiry_validation() {
+    var name = $('#corporate_name').val();
+    var email = $('#corporate_email').val();
+    var mobile = $('#corporate_mobile').val();
+    var message = $('#corporate_message').val();
+
+    var email_regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var valid = 0;
+
+    if (name == '') {
+        $('#ErrorcorporateName').text('Please enter your name');
+        $('#corporate_name').css('border-color', 'red');
+        $("#corporate_name").focus();
+        return false;
+    } else {
+        $('#ErrorcorporateName').text('');
+        $('#corporate_name').css('border-color', 'green');
+        valid++;
+    }
+    if (email == '') {
+        $('#ErrorcorporateEmail').text('Please enter your email id');
+        $('#corporate_email').css('border-color', 'red');
+        $("#corporate_email").focus();
+        return false;
+    } else if (!(email_regex.test(email))) {
+        $('#ErrorcorporateEmail').text('Please enter your valid email id');
+        $('#corporate_email').css('border-color', 'red');
+        $("#corporate_email").focus();
+        return false;
+    } else {
+        $('#corporate_email').css('border-color', 'green');
+        $('#ErrorcorporateEmail').text('');
+        valid++;
+    }
+    var mobvalue = document.getElementById('mobile').value;
+    if (mobile == '') {
+        $('#ErrorcorporateMobile').text('Please enter your mobile');
+        $('#corporate_mobile').css('border-color', 'red');
+        $("#corporate_mobile").focus();
+        return false;
+    } else if (mobvalue.length > 10) {
+        $('#ErrorcorporateMobile').text('Please enter at least 10 digit number ');
+        $('#corporate_mobile').css('border-color', 'red');
+        $("#corporate_mobile").focus();
+        return false;
+    } else {
+        $('#ErrorcorporateMobile').text('');
+        $('#corporate_mobile').css('border-color', 'green');
+        valid++;
+    }
+    if (message == '') {
+        $('#ErrorcorporateMessage').text('Please enter your message');
+        $('#corporate_message').css('border-color', 'red');
+        $("#corporate_message").focus();
+        return false;
+    } else {
+        $('#ErrorcorporateMessage').text('');
+        $('#corporate_message').css('border-color', 'green');
+        valid++;
+    }
+    return false;
+}
+
+function fetch_doctors(value) {
+    var url = "https://www.sakrapremiumclinic.com/Doctor/get_doctors/" + value;
+    $.ajax({
+        type: 'post',
+        url: url,
+        success: function(response) {
+            document.getElementById("speciality_doctor").innerHTML = response;
+        }
+    });
+}
+
+function get_particular_doctor_fee(value){
+    var url = "https://www.sakrapremiumclinic.com/Doctor/get_doctors_video_consultation_fee/" + value;
+            $.ajax({
+                type: 'post',
+                url: url,
+                beforeSend: function() {
+                    $(".video-consultation-fee-changes").remove('');
+                },
+                success: function(res) {
+                    $(".consultation_fee_changes").append(res);
+                    
+                    
+                }
+            });
+}
+function fetch_doctors_for_video_consultation(value) {
+    $(".consultation_fee_changes").append('');
+    var url = "https://www.sakrapremiumclinic.com/Doctor/get_doctors_video_consultation/" + value;
+    $.ajax({
+        type: 'post',
+        url: url,
+        success: function(response) {
+            document.getElementById("video_doc_id").innerHTML = response;
+            
+            var htmlString = response;
+            var node = document.createElement('div');
+            node.innerHTML = htmlString;
+            var option = node.querySelectorAll('option');
+            var docvalue = option[0].value;
+            
+            var url = "https://www.sakrapremiumclinic.com/Doctor/get_doctors_video_consultation_fee/" + docvalue;
+            $.ajax({
+                type: 'post',
+                url: url,
+                beforeSend: function() {
+                    $(".video-consultation-fee-changes").remove('');
+                },
+                success: function(res) {
+                    $(".consultation_fee_changes").append(res);
+                    
+                    
+                }
+            });
+
+            console.log(value);
+        }
+    });
+}
+
+</script>
+<script>
+    var btn = $('#button');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '300');
+});
+
+
+</script>
+
+<div id="button" class="show" style="bottom: 0; opacity: 1; visibility: visible; right: 0; left: 0; background-color:#43aa8c;">
+    <marquee behavior="" style="background-color:#43aa8c;" onMouseOver="this.stop()" onMouseOut="this.start()"><img style="width: 40px;" src="https://www.sakrapremiumclinic.com/assets/images/gif-new-14.gif">&nbsp;<a href="https://www.sakraworldhospital.com/sleep-apnea/" target="_blank" style="color:#000">Sleep Apnea</a> | <a href="https://www.sakrapremiumclinic.com/campaign/hair-transplant/" target="_blank" style="color:#000">Hair Transplant</a></marquee>
+</div>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+
+</html>
