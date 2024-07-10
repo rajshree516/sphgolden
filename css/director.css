@@ -12,18 +12,42 @@ body {
 }
 .header-director{
     padding: 0 4.8rem;
-    height: 7rem;
+    /* height: 7rem; */
     background-color: rgb(142, 77, 43);
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
     padding: 20px 40px;
+    color: white;
+    font-size: 1.5rem;
     /* box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+}
+.header-director{
+    padding: 0 4.8rem;
+    height: 9rem;
+    background-color: rgb(24, 23, 23);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it's above other content */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.logo{
+    padding-left: 2rem;
+    display: flex;
+    align-items: end;
+    margin-top: 1rem;
+    height: 7rem;
+    width: 10rem;
 }
 .line-border {
     position: absolute;
-    top: 75px;
+    top: 60px;
     left: 50%;
     transform: translateX(-50%);
     width: 20rem;
